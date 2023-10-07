@@ -1,4 +1,4 @@
-Hello! My name is Parker and I love computer science! 👋
+Hello! My name is Parker Sawh and I love computer science! 👋
 let's hope my github education application gets approved!
 I also love coding in C#! 🧑‍💻
 my pronouns are he/him 🙍‍♂️
