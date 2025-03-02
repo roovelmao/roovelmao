@@ -1,6 +1,5 @@
-Hello! My name is Parker and I love computer science! 👋
-I also love coding in C#! 🧑‍💻
-my pronouns are he/him 🙍‍♂️
-email me at epsawh@gmail.com! 📨
-science class is fun 🧪
+Support | I do stuff @ https://saharacompute.com
 
+parker.sawh@saharacompute.com
+
+https://discord.gg/6macCfbDYp
